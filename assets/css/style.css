@@ -16,6 +16,12 @@ body{
     background-size: cover;
     position: relative;
 }
+.header-top .span{
+    display: none;
+}
+.none{
+    display: none;
+}
 .header-container::after{
     content: '';
     background-color: rgb(0, 0, 0, 0.6);
